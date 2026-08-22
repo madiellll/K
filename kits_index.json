@@ -1,8 +1,38 @@
 [
   {
-    "id": "PEARL", 
-    "name": "Pearl Drum Kit",
-    "url": "https://github.com/madiellll/K/releases/download/V1.0/PEARL.zip",
+    "id": "Black Pearl", 
+    "name": "Black Pearl Drum Kit",
+    "url": "https://github.com/madiellll/K/releases/download/V1.0/Black%20Pearl.zip",
     "size": "14 MB"
+  },
+  {
+    "id": "BLOND", 
+    "name": "Blond Kit",
+    "url": "https://github.com/madiellll/K/releases/download/V1.0/Blond.zip",
+    "size": "19 MB"
+  },
+  {
+    "id": "Muldjord", 
+    "name": "Muldjord Drumkit",
+    "url": "https://github.com/madiellll/K/releases/download/V1.0/Muldjord.zip",
+    "size": "295 MB"
+  },
+  {
+    "id": "RED_ZEPPELIN", 
+    "name": "Red Zeppelin Kit",
+    "url": "https://github.com/madiellll/K/releases/download/V1.0/RED_ZEPPELIN.zip",
+    "size": "18 MB"
+  },
+  {
+    "id": "SalamanderDrumkit", 
+    "name": "Salamander Drumkit",
+    "url": "https://github.com/madiellll/K/releases/download/V1.0/SalamanderDrumkit.zip",
+    "size": "391 MB"
+  },
+  {
+    "id": "SamsSonor", 
+    "name": "Sams Sonor Kit",
+    "url": "https://github.com/madiellll/K/releases/download/V1.0/SamsSonor.zip",
+    "size": "35 MB"
   }
 ]
