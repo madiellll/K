@@ -34,5 +34,29 @@
     "name": "Sams Sonor Kit",
     "url": "https://github.com/madiellll/K/releases/download/V1.0/SamsSonor.zip",
     "size": "35 MB"
+  },
+  {
+    "id": "Big_Rusty", 
+    "name": "Big Rusty Drums",
+    "url": "https://github.com/madiellll/K/releases/download/V1.0/Big_Rusty.zip",
+    "size": "115 MB"
+  },
+  {
+    "id": "Tchimera", 
+    "name": "Tchimera Drum Kit",
+    "url": "https://github.com/madiellll/K/releases/download/V1.0/Tchimera.zip",
+    "size": "85 MB"
+  },
+  {
+    "id": "Unruly-drums", 
+    "name": "Unruly Drums Kit",
+    "url": "https://github.com/madiellll/K/releases/download/V1.0/Unruly-drums.zip",
+    "size": "45 MB"
+  },
+  {
+    "id": "NakedDrums", 
+    "name": "Naked Drums Kit",
+    "url": "https://github.com/madiellll/K/releases/download/V1.0/NakedDrums.zip",
+    "size": "150 MB"
   }
 ]
