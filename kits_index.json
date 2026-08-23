@@ -64,5 +64,11 @@
     "name": "Virtuosity Drums Kit",
     "url": "https://github.com/madiellll/K/releases/download/V1.0/Virtuosity_Drums.zip",
     "size": "1.14 GB"
+  },
+   {
+    "id": "SM DRUMS", 
+    "name": "SM DRUMS",
+    "url": "https://huggingface.co/datasets/elmachyhd/drumkits/resolve/main/SM%20DRUMS.zip?download=true",
+    "size": "2.24 GB"
   }
 ]
