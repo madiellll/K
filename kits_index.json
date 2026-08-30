@@ -70,11 +70,17 @@
     "name": "SM DRUMS",
     "url": "https://huggingface.co/datasets/elmachyhd/drumkits/resolve/main/SM%20DRUMS.zip?download=true",
     "size": "2.24 GB"
-  }
+  },
    {
     "id": "Vintage_Kit", 
     "name": "Vintage Kit",
     "url": "https://github.com/madiellll/K/releases/download/V1.0/Vintage_Kit.zip",
     "size": "83 MB"
+  },
+    {
+    "id": "Jazz_Kit", 
+    "name": "Jazz Kit",
+    "url": " https://github.com/madiellll/K/releases/download/V1.0/Jazz_Kit.zip",
+    "size": "73 MB"
   }
 ]
