@@ -88,5 +88,11 @@
     "name": "Premier Signia",
     "url": "https://github.com/madiellll/K/releases/download/V1.0/Premier_Signia.zip",
     "size": "595 MB"
+  },
+    {
+    "id": "CrocellKit", 
+    "name": "CrocellKit",
+    "url": "https://github.com/madiellll/K/releases/download/V1.0/CrocellKit.zip",
+    "size": "595 MB"
   }
 ]
