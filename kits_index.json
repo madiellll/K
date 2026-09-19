@@ -94,5 +94,11 @@
     "name": "CrocellKit",
     "url": "https://github.com/madiellll/K/releases/download/V1.0/CrocellKit.zip",
     "size": "614 MB"
+  },
+    {
+    "id": "DRSKit", 
+    "name": "DRSKit",
+    "url": "https://github.com/madiellll/K/releases/download/V1.0/DRSKit.zip",
+    "size": "715 MB"
   }
 ]
