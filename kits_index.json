@@ -100,5 +100,17 @@
     "name": "DRSKit",
     "url": "https://github.com/madiellll/K/releases/download/V1.0/DRSKit.zip",
     "size": "715 MB"
+  },
+    {
+    "id": "Rocker", 
+    "name": "Rocker",
+    "url": "https://github.com/madiellll/K/releases/download/V1.0/Rocker.zip",
+    "size": "80 MB"
+  },
+    {
+    "id": "Titanium", 
+    "name": "Titanium",
+    "url": "https://github.com/madiellll/K/releases/download/V1.0/Titanium.zip",
+    "size": "117 MB"
   }
 ]
