@@ -116,7 +116,13 @@
     {
     "id": "Super", 
     "name": "Super",
-    "url": "  https://github.com/madiellll/K/releases/download/V1.0/Super.zip",
+    "url": "https://github.com/madiellll/K/releases/download/V1.0/Super.zip",
     "size": "247 MB"
+  },
+    {
+    "id": "FG", 
+    "name": "FG",
+    "url": "https://github.com/madiellll/K/releases/download/V1.0/Dorado.zip",
+    "size": "85 MB"
   }
 ]
