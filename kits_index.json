@@ -130,5 +130,11 @@
     "name": "Larry Seyer Drums",
     "url": "https://github.com/madiellll/K/releases/download/V1.0/Larry.Seyer.Drums.zip",
     "size": "341 MB"
+  },
+    {
+    "id": "D-MOD", 
+    "name": "D-MOD",
+    "url": "https://github.com/madiellll/K/releases/download/V1.0/D-MOD.zip",
+    "size": "134 MB"
   }
 ]
