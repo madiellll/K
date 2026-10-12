@@ -136,5 +136,11 @@
     "name": "D-MOD",
     "url": "https://github.com/madiellll/K/releases/download/V1.0/D-MOD.zip",
     "size": "134 MB"
+  },
+    {
+    "id": "BigMono", 
+    "name": "BigMono",
+    "url": "https://github.com/madiellll/K/releases/download/V1.0/BigMono.zip",
+    "size": "135 MB"
   }
 ]
