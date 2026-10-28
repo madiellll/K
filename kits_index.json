@@ -148,5 +148,11 @@
     "name": "Rock black",
     "url": " https://github.com/madiellll/K/releases/download/V1.0/Rock_black.zip",
     "size": "148 MB"
+  },
+    {
+    "id": "Drum basic", 
+    "name": "Drum basic",
+    "url": "https://github.com/madiellll/K/releases/download/V1.0/drum_basic.zip",
+    "size": "102 MB"
   }
 ]
